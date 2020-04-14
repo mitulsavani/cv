@@ -1,11 +1,11 @@
-# Mitul Savani   [he/him]
+# Mitul Savani [he/him]
 
 _Software developer based in San Francisco, California_ <br>
 _(kem chao, maja ma? 🙏🏽)_
 
 [@mitulsavani_](https://twitter.com/mitulsavani_) / [mitul.savani1@gmail.com](mailto:mitul.savani1@gmail.com) / [GitHub](https://github.com/mitulsavani/) / [LinkedIn](https://www.linkedin.com/in/savanimitul/)
 
-**You can find a [single-page PDF](https://github.com/mitulsavani/cv/blob/master/Mitul_Savani_Resume.pdf) version of my CV within this repo.** 
+**You can find a [single-page PDF](https://mitulsavani.com/resume.pdf) version of my CV/Resume here.** 
 <br><br> 
 
 ## 📝 Summary
@@ -20,11 +20,11 @@ Accomplished Mobile Application Developer who is able to create mobile applicati
   - Responsible for beta testing and releasing iOS and Android application to 300+ active users on app stores
   - Worked in an agile environment consisting of analyzing users and peer feedback on the submitted work
     <br><br>
-- **Software Development Intern** @ Claryty _(Nov 2018 - Oct 2019)_ <br>
-  Bioinformatics Research Project at San Francisco State University
+- **Software Development Intern, Research Assistant** @ [Claryty](https://play.google.com/store/apps/details?id=com.claryty.claryty&hl=en_US) _(Nov 2018 - Oct 2019)_ <br>
+  Bioinformatics Research Project by Stanford University
   - Developed new mobile application for consumers with React Native/Redux that presents adverse effect reports for prescription drugs
   - Designed the full architecture of software stack in order to scale future Food and Drug Administration(FDA) data sets and user input
-    - 🧬 Integrated 20+ million lines of FDA data! 
+    - 🧬 Integrated 20+ million lines of FDA data into database! 
   - Involved in weekly SCRUM meetings to keep track of the ongoing project status and issues
   - Won 3rd price out of 240 projects at College of Science and Engineering annual showcase in 2019 at SF State
     <br><br>
@@ -56,7 +56,7 @@ Accomplished Mobile Application Developer who is able to create mobile applicati
   React, React Native, Redux, Node, Express
 
 - **Tools**<br>
-  Git, GitHub, Developer Tools, Amazon Web Services(AWS), Firebase 
+  Amazon Web Services(AWS), Google Cloud Platform(GCP), XCode, NPM, Developer Tools,  Firebase
   
 - **IDEs**<br>
   Visual Studio Code, IntelliJ IDEA, NetBeans, Eclipse IDE
@@ -67,6 +67,6 @@ Accomplished Mobile Application Developer who is able to create mobile applicati
 
 ## 🧑🏽‍🎓 Education
 
-- **Bachelor of Science** in Computer Science<br>
+- **Bachelor of Science** in Computer Science, GPA: 3.82<br>
   [San Francisco State University](https://www.sfsu.edu/) - San Francisco, California, USA _(2016 - May 2020)_
 
