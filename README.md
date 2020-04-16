@@ -28,16 +28,22 @@ Accomplished Mobile Application Developer who is able to create mobile applicati
   - Involved in weekly SCRUM meetings to keep track of the ongoing project status and issues
   - Won 3rd price out of 240 projects at College of Science and Engineering annual showcase in 2019 at SF State
     <br><br>
-- **Founder - Tutoring Services** @ [CS Sfsu](https://cs.sfsu.edu/) _(Aug 2017 - Present)_ <br>
-  Association of Computing Machinery - World's largest scientific and educational computing society
-  - Consulted with students in their side projects and assignments by showing them the effective use of standard data structures and algorithms
-    - TA for 140 hours a semester
-  - Improved overall academic performance of incoming freshmen and sophomores by 30% in core courses such as Programming Methodology and Software Development
-  - Recruited, organized, and trained tutors for the Computer Science Department
+- **Open Source** @ [Facebook](https://reactnative.dev/)<br>
+React Native Core, React Native Website
+    - Contributed in migrating ImageStore native module into the new TurboModule System architecture of the repository(v59)
+    - Updated API and Component docs to reflect the props and methods reflected in core repository(v62)
+    - Collaborated with core contributors to comprehend the code base and get peer feedback on the submitted work.
     <br><br>
     
 ## 👮🏽‍♂️Leadership Activities
 
+- **Founder - Tutoring Services** @ [CS Sfsu](https://cs.sfsu.edu/) _(Aug 2017 - Present)_ <br>
+Association of Computing Machinery - World's largest scientific and educational computing society
+- Consulted with students in their side projects and assignments by showing them the effective use of standard data structures and algorithms
+  - TA for 140 hours a semester
+- Improved overall academic performance of incoming freshmen and sophomores by 30% in core courses such as Programming Methodology and Software Development
+- Recruited, organized, and trained tutors for the Computer Science Department
+  <br><br>
 - **Hackathon Organizer** @ [SF Hacks](http://sfhacks.io/) _(Nov 2017 - Present)_ <br>
   - Arranged first collegiate Hackathon in San Francisco with over 350 attendees
   - Spearhead an outreach team to reach out to 30+ companies for partnership and raised $18,000 in sponsorship
