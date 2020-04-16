@@ -39,11 +39,11 @@ React Native Core, React Native Website
 
 - **Founder - Tutoring Services** @ [CS Sfsu](https://cs.sfsu.edu/) _(Aug 2017 - Present)_ <br>
 Association of Computing Machinery - World's largest scientific and educational computing society
-- Consulted with students in their side projects and assignments by showing them the effective use of standard data structures and algorithms
-  - TA for 140 hours a semester
-- Improved overall academic performance of incoming freshmen and sophomores by 30% in core courses such as Programming Methodology and Software Development
-- Recruited, organized, and trained tutors for the Computer Science Department
-  <br><br>
+    - Consulted with students in their side projects and assignments by showing them the effective use of standard data structures and algorithms
+        - TA for 140 hours a semester
+    - Improved overall academic performance of incoming freshmen and sophomores by 30% in core courses such as Programming Methodology and Software Development
+    - Recruited, organized, and trained tutors for the Computer Science Department
+    <br><br>
 - **Hackathon Organizer** @ [SF Hacks](http://sfhacks.io/) _(Nov 2017 - Present)_ <br>
   - Arranged first collegiate Hackathon in San Francisco with over 350 attendees
   - Spearhead an outreach team to reach out to 30+ companies for partnership and raised $18,000 in sponsorship
