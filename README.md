@@ -3,14 +3,14 @@
 _Software developer based in San Francisco, California_ <br>
 _(kem chao, maja ma? 🙏🏽)_
 
-[@mitulsavani_](https://twitter.com/mitulsavani_) / [mitul.savani1@gmail.com](mailto:mitul.savani1@gmail.com) / [GitHub](https://github.com/mitulsavani/) / [LinkedIn](https://www.linkedin.com/in/savanimitul/)
+[Twitter](https://twitter.com/mitulsavani_) / [Email](mailto:mitul.savani1@gmail.com) / [GitHub](https://github.com/mitulsavani/) / [LinkedIn](https://www.linkedin.com/in/savanimitul/)
 
-**You can find a [single-page PDF](https://mitulsavani.com/resume.pdf) version of my CV/Resume here.** 
+**You can find a [Single-Page PDF](https://mitulsavani.com/resume.pdf) version of my CV/Resume here.** 
 <br><br> 
 
 ## 📝 Summary
 
-Accomplished Mobile Application Developer who is able to create mobile applications for every mobile software operating system platform. Adept at developing apps based on customer specifications recommending application changes to make more efficient programs and upgrading existing apps to make them more useful. Specializes in corporate and industrial applications.
+Magna Cum Laude (3.82 gpa) in Bachelor's in Computer Science from San Francisco State University 2016-2020. l love building great products, solving critical questions, and passionate about Algorithms. I thrive in fast-paced environments and enjoy working with others towards success as a team. I seek to surround myself with motivated, like-minded engineers who inspire me. I am interested in all things related to technology and design, and my most recent career interests lie in Mobile Application Development,  Human-Computer Interaction, Internet Application Design & Development, and Software Architecturing. I am actively looking for a challenging Software Engineering roles where I can use my capabilities through sincere dedication and hard work to move up the graph of the organization.
 
 ## 👨🏽‍💻 Industry Experience
 
@@ -20,18 +20,19 @@ Accomplished Mobile Application Developer who is able to create mobile applicati
   - Responsible for beta testing and releasing iOS and Android application to 300+ active users on app stores
   - Worked in an agile environment consisting of analyzing users and peer feedback on the submitted work
     <br><br>
-- **Software Development Intern, Research Assistant** @ [Claryty](https://play.google.com/store/apps/details?id=com.claryty.claryty&hl=en_US) _(Nov 2018 - Oct 2019)_ <br>
+- **Software Development Intern, Undergraduate Researcher** @ [Claryty](https://play.google.com/store/apps/details?id=com.claryty.claryty&hl=en_US) _(Nov 2018 - Oct 2019)_ <br>
   Bioinformatics Research Project by Stanford University
   - Developed new mobile application for consumers with React Native/Redux that presents adverse effect reports for prescription drugs
   - Designed the full architecture of software stack in order to scale future Food and Drug Administration(FDA) data sets and user input
     - 🧬 Integrated 20+ million lines of FDA data into database! 
   - Involved in weekly SCRUM meetings to keep track of the ongoing project status and issues
-  - Won 3rd price out of 240 projects at College of Science and Engineering annual showcase in 2019 at SF State
+  - Won 3rd prize out of 240 projects at College of Science and Engineering annual showcase in 2019 at SF State
     <br><br>
 - **Open Source** @ [Facebook](https://reactnative.dev/)<br>
-React Native Core, React Native Website
+React Native Core, React Native Website, React Native Directory
     - Contributed in migrating ImageStore native module into the new TurboModule System architecture of the repository(v59)
     - Updated API and Component docs to reflect the props and methods reflected in core repository(v62)
+    - Added 50+ missing libraries(Analytics, Geolocation, Deep Link, UI Components, and Other Platforms) that are assoicated with react native to the directory list
     - Collaborated with core contributors to comprehend the code base and get peer feedback on the submitted work.
     <br><br>
     
@@ -76,3 +77,5 @@ Association of Computing Machinery - World's largest scientific and educational 
 - **Bachelor of Science** in Computer Science, GPA: 3.82<br>
   [San Francisco State University](https://www.sfsu.edu/) - San Francisco, California, USA _(2016 - May 2020)_
 
+> Thank you for reading
+> Updated on 12th May, 2020.
