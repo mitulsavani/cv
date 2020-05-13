@@ -11,6 +11,7 @@ _(kem chao, maja ma? 🙏🏽)_
 ## 📝 Summary
 
 Magna Cum Laude (3.82 gpa) in Bachelor's in Computer Science from San Francisco State University 2016-2020. l love building great products, solving critical questions, and passionate about Algorithms. I thrive in fast-paced environments and enjoy working with others towards success as a team. I seek to surround myself with motivated, like-minded engineers who inspire me. I am interested in all things related to technology and design, and my most recent career interests lie in Mobile Application Development,  Human-Computer Interaction, Internet Application Design & Development, and Software Architecturing. I am actively looking for a challenging Software Engineering roles where I can use my capabilities through sincere dedication and hard work to move up the graph of the organization.
+<br><br>
 
 ## 👨🏽‍💻 Industry Experience
 
@@ -78,4 +79,5 @@ Association of Computing Machinery - World's largest scientific and educational 
   [San Francisco State University](https://www.sfsu.edu/) - San Francisco, California, USA _(2016 - May 2020)_
 
 > Thank you for reading
+<br>
 > Updated on 12th May, 2020.
