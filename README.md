@@ -10,11 +10,17 @@ _(kem chao, maja ma? 🙏🏽)_
 
 ## 📝 Summary
 
-Magna Cum Laude (3.82 gpa) in Bachelor's in Computer Science from San Francisco State University 2016-2020. l love building great products, solving critical questions, and passionate about Algorithms. I thrive in fast-paced environments and enjoy working with others towards success as a team. I seek to surround myself with motivated, like-minded engineers who inspire me. I am interested in all things related to technology and design, and my most recent career interests lie in Mobile Application Development,  Human-Computer Interaction, Internet Application Design & Development, and Software Architecture. I am actively looking for a challenging Software Engineering roles where I can use my capabilities through sincere dedication and hard work to move up the graph of the organization.
+Magna Cum Laude (3.82 gpa) in Bachelor's in Computer Science from San Francisco State University, 2016-2020. l revel in solving critical problems, developing algorithms, and am passionate about building cutting-edge mobile applications. I thrive in fast-paced environments and enjoy working with others towards success as a team. I seek to surround myself with motivated, like-minded engineers who inspire me. I am interested in all things related to technology and designs, and my most recent career interests lie in Mobile Application Development, Human-Computer Interaction, Internet Application Design & Development, and Software Architecture.
 <br><br>
 
 ## 👨🏽‍💻 Industry Experience
 
+- **Software Developer (Mobile)** @ [AgreeYa Solutions](https://agreeya.com/) _(Aug 2020 - Present)_ <br>
+  AgreeYa is a global systems integrator committed to delivering leading-edge, technology-enabled and business-driven solutions to small, medium and global Fortune 100 organizations.
+  - Building hybrid mobile applications for iOS and Android using technologies such as Flutter, Ionic, and React Native
+  - Designed, built, and maintained the high performance, reusable, and reliable code
+  - Provided direction in the development and maintenance as well as participated in various phases of development lifecycle alongside Enterprise Architect and UX Strategist
+    <br><br>
 - **Software Engineer** @ [Kandou](https://www.kandouapp.com/) _(Nov 2019 - Present)_ <br>
   Kandou makes it easy for you to find social good events in your community
   - Expertise in UI/Front-End Development, developing features, and designing user interaction screens
@@ -57,20 +63,17 @@ Association of Computing Machinery - World's largest scientific and educational 
 
 ## 💻 Technologies I Work With
 
-- **Languages**<br>
-  JavaScript, Java, Python, Ruby, C++, C, HTML/CSS
+- **Programming Languages**<br>
+  JavaScript, Java, Dart, Python, Ruby, C++, C, HTML/CSS
 
 - **Libraries and Frameworks**<br>
-  React, React Native, Redux, Node, Express
+  React, React Native, Flutter, Ionic, Redux, GraphQL, Node.js, Express.js, Java Swing
 
-- **Tools**<br>
-  Amazon Web Services(AWS), Google Cloud Platform(GCP), XCode, NPM, Developer Tools,  Firebase
-  
-- **IDEs**<br>
-  Visual Studio Code, IntelliJ IDEA, NetBeans, Eclipse IDE
+- **Databases and Infrastructure**<br>
+  Amazon Web Services(AWS), Google Cloud Platform(GCP), Firebase, MySQL, PostgreSQL
 
-- **Communication**<br>
-  Slack, Jira, Trello, Notion
+- **Tools \& Miscellaneous**<br>
+  Visual Studio Code, XCode, Android Studio, REST API, Docker, Postman, Git, bash, NPM, Yarn, Jira, Trello, Notion, Classical Algorithms \& Data Structures, AirBnB code standards
   <br><br>
 
 ## 🧑🏽‍🎓 Education
@@ -79,4 +82,4 @@ Association of Computing Machinery - World's largest scientific and educational 
   [San Francisco State University](https://www.sfsu.edu/) - San Francisco, California, USA _(2016 - May 2020)_
 
 > Thank you for reading <br>
-> Updated on 13th May, 2020.
+> Updated on 13th Oct, 2020.
