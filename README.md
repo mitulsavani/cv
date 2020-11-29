@@ -5,7 +5,7 @@ _(kem chao, maja ma? 🙏🏽)_
 
 [Twitter](https://twitter.com/mitulsavani_) / [Email](mailto:mitul.savani1@gmail.com) / [GitHub](https://github.com/mitulsavani/) / [LinkedIn](https://www.linkedin.com/in/savanimitul/)
 
-**You can find a [Single-Page PDF](https://mitulsavani.com/resume.pdf) version of my CV/Resume here.** 
+**You can find a [Single-Page PDF](https://mitulsavani.com/resume.pdf) version of my Resume/CV here.** 
 <br><br> 
 
 ## 📝 Summary
@@ -64,7 +64,7 @@ Association of Computing Machinery - World's largest scientific and educational 
 ## 💻 Technologies I Work With
 
 - **Programming Languages**<br>
-  JavaScript, Java, Dart, Python, Ruby, C++, C, HTML/CSS
+  JavaScript, TypeScript, Java, Dart, Python, Ruby, C++, C, HTML/CSS
 
 - **Libraries and Frameworks**<br>
   React, React Native, Flutter, Ionic, Redux, GraphQL, Node.js, Express.js, Java Swing
@@ -82,4 +82,4 @@ Association of Computing Machinery - World's largest scientific and educational 
   [San Francisco State University](https://www.sfsu.edu/) - San Francisco, California, USA _(2016 - May 2020)_
 
 > Thank you for reading <br>
-> Updated on 13th Oct, 2020.
+> Updated on 28th Nov, 2020.
