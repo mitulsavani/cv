@@ -17,11 +17,13 @@ Magna Cum Laude (3.82 gpa) in Bachelor's in Computer Science from San Francisco 
 
 - **Software Developer (Mobile)** @ [AgreeYa Solutions](https://agreeya.com/) _(Aug 2020 - Present)_ <br>
   AgreeYa is a global systems integrator committed to delivering leading-edge, technology-enabled and business-driven solutions to small, medium and global Fortune 100 organizations.
-  - Building hybrid mobile applications for iOS and Android using technologies such as Flutter, Ionic, and React Native
-  - Designed, built, and maintained the high performance, reusable, and reliable code
-  - Provided direction in the development and maintenance as well as participated in various phases of development lifecycle alongside Enterprise Architect and UX Strategist
+  - Working experience in the design and development of both greenfield and brownfield mobile applications across various platforms using hybrid technologies such as Flutter, React Native, and Ionic.
+  - Developed many Proof-of-Concepts (POC's) to showcase new features in mobile application development to clients.
+  - Collaborated with DevOps team to design a scalable modular framework for continuous integration and automation of build generation, test case execution, and sending deliverables to the client.
+  - Working directly with Director and Enterprise Architect to consistently deliver high performance, maintainable, and reliable infrastructure on our client projects.
+  - Worked on estimates for project development and interacted with a client for the daily status call to identify key requirements, define project scope, develop a project plan and schedule.
     <br><br>
-- **Software Engineer** @ [Kandou](https://www.kandouapp.com/) _(Nov 2019 - Present)_ <br>
+- **Software Engineer** @ [Kandou](https://www.kandouapp.com/) _(Nov 2019 - July 2020)_ <br>
   Kandou makes it easy for you to find social good events in your community
   - Expertise in UI/Front-End Development, developing features, and designing user interaction screens
   - Responsible for beta testing and releasing iOS and Android application to 300+ active users on app stores
@@ -45,14 +47,14 @@ React Native Core, React Native Website, React Native Directory
     
 ## 👮🏽‍♂️Leadership Activities
 
-- **Founder - Tutoring Services** @ [CS Sfsu](https://cs.sfsu.edu/) _(Aug 2017 - Present)_ <br>
+- **Founder - Tutoring Services** @ [CS Sfsu](https://cs.sfsu.edu/) _(Aug 2017 - May 2020)_ <br>
 Association of Computing Machinery - World's largest scientific and educational computing society
     - Consulted with students in their side projects and assignments by showing them the effective use of standard data structures and algorithms
         - TA for 140 hours a semester
     - Improved overall academic performance of incoming freshmen and sophomores by 30% in core courses such as Programming Methodology and Software Development
     - Recruited, organized, and trained tutors for the Computer Science Department
     <br><br>
-- **Hackathon Organizer** @ [SF Hacks](http://sfhacks.io/) _(Nov 2017 - Present)_ <br>
+- **Hackathon Organizer** @ [SF Hacks](http://sfhacks.io/) _(Nov 2017 - May 2020)_ <br>
   - Arranged first collegiate Hackathon in San Francisco with over 350 attendees
   - Spearhead an outreach team to reach out to 30+ companies for partnership and raised $18,000 in sponsorship
     <br><br>
@@ -82,4 +84,4 @@ Association of Computing Machinery - World's largest scientific and educational 
   [San Francisco State University](https://www.sfsu.edu/) - San Francisco, California, USA _(2016 - May 2020)_
 
 > Thank you for reading <br>
-> Updated on 28th Nov, 2020.
+> Updated on 2nd Nov, 2021.
