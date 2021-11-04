@@ -63,6 +63,26 @@ Association of Computing Machinery - World's largest scientific and educational 
   - Facilitated a dynamic and collaborative classroom of 15 students and conducted weekly office hours for further assistance
     <br><br>    
 
+## Here's some of the events I attended
+
+- **Google Cloud Next Conference '19** _(San Francisco, CA, Apr 2019)_ <br>
+- **Science and Engineering Student Gov Candidate** at [SF State]() _(San Francisco, CA, Apr 2019)_ <br>
+- **Tech & Diversity Conference** at [Lyft HQ]() _(San Francisco, CA, Mar 2019)_ <br>
+- **Website Design Opinion** at [Charles Schwab HQ]() _(San Francisco, CA, Apr 2018)_ <br>
+- **Oracle Java One Conference '17** at _(San Francisco, CA, Oct 2017)_ <br>
+- **Speaker at GitHub Field Day** at [Github HQ]() _(San Francisco, CA, Oct 2017) <br>
+- **GitHub Universe Conference '17** _(San Francisco, CA, Oct 2017) <br>
+- **Volunteer at CODE2040 Summit '17**  _(San Francisco, CA, Aug 2017) <br>
+- **Get-together Event** at [Twitter HQ]() _(San Francisco, CA, July 2017)_ <br>
+- **Gaming Experience Review** at [Oculus HQ]() _(Menlo Park, CA, July 2017)_ <br>
+- **Research Study** at [Facebook HQ]() _(Menlo Park, CA, May 2017)_ <br>
+- **Yahoo Mail Design Review** at [Yahoo HQ]() _(San Francisco, CA, Apr 2017)_ <br>
+- **User Experience Feedback** at [Playstation HQ]() _(San Mateo, CA)_ <br>
+- **Product Review** at [Proteus Digital Health HQ]() _(Redwood City, CA)_ <br>
+- **Mobile App Review** at [JPMorgan Chase]() _(San Francisco, CA)_ <br>
+- **Website App Review** at [Wells Fargo HQ]() _(San Francisco, CA)_ <br>
+  <br><br>
+
 ## 💻 Technologies I Work With
 
 - **Programming Languages**<br>
@@ -84,4 +104,4 @@ Association of Computing Machinery - World's largest scientific and educational 
   [San Francisco State University](https://www.sfsu.edu/) - San Francisco, California, USA _(2016 - May 2020)_
 
 > Thank you for reading <br>
-> Updated on 2nd Nov, 2021.
+> Updated on 3nd Nov, 2021.
