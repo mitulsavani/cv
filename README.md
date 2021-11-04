@@ -70,9 +70,9 @@ Association of Computing Machinery - World's largest scientific and educational 
 - **Tech & Diversity Conference** at [Lyft HQ]() _(San Francisco, CA, Mar 2019)_ <br>
 - **Website Design Opinion** at [Charles Schwab HQ]() _(San Francisco, CA, Apr 2018)_ <br>
 - **Oracle Java One Conference '17** at _(San Francisco, CA, Oct 2017)_ <br>
-- **Speaker at GitHub Field Day** at [Github HQ]() _(San Francisco, CA, Oct 2017) <br>
-- **GitHub Universe Conference '17** _(San Francisco, CA, Oct 2017) <br>
-- **Volunteer at CODE2040 Summit '17**  _(San Francisco, CA, Aug 2017) <br>
+- **Speaker at GitHub Field Day** at [Github HQ]() _(San Francisco, CA, Oct 2017)_ <br>
+- **GitHub Universe Conference '17** _(San Francisco, CA, Oct 2017)_ <br>
+- **Volunteer at CODE2040 Summit '17**  _(San Francisco, CA, Aug 2017)_ <br>
 - **Get-together Event** at [Twitter HQ]() _(San Francisco, CA, July 2017)_ <br>
 - **Gaming Experience Review** at [Oculus HQ]() _(Menlo Park, CA, July 2017)_ <br>
 - **Research Study** at [Facebook HQ]() _(Menlo Park, CA, May 2017)_ <br>
