@@ -1,7 +1,7 @@
 # Mitul Savani [he/him]
 
 _Software developer based in San Francisco, California_ <br>
-_(kem chao, maja ma? 🙏🏽)_
+_(kem cho, maja ma? 🙏🏽)_
 
 [Twitter](https://twitter.com/mitulsavani_) / [Email](mailto:mitul.savani1@gmail.com) / [GitHub](https://github.com/mitulsavani/) / [LinkedIn](https://www.linkedin.com/in/savanimitul/)
 
