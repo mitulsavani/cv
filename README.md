@@ -10,7 +10,9 @@ _(kem cho, maja ma? 🙏🏽)_
 
 ## 📝 Summary
 
-Magna Cum Laude (3.82 gpa) in Bachelor's in Computer Science from San Francisco State University, 2016-2020. l revel in solving critical problems, developing algorithms, and am passionate about building cutting-edge mobile applications. I thrive in fast-paced environments and enjoy working with others towards success as a team. I seek to surround myself with motivated, like-minded engineers who inspire me. I am interested in all things related to technology and designs, and my most recent career interests lie in Mobile Application Development, Human-Computer Interaction, Internet Application Design & Development, and Software Architecture.
+l revel in solving critical problems, developing algorithms, and building cutting-edge mobile applications. I thrive in fast-paced environments and enjoy working with others towards success as a team. I seek to surround myself with motivated, like-minded engineers who inspire me. I currently develop mobile apps at AgreeYa Solutions where I have experience working in the design and development of both greenfield and brownfield mobile applications across various platforms using hybrid and native technologies. I previously worked on building the core app at Kandou where I shipped features and released a new version of the app on app stores. I hold Magna Cum Laude in Bachelor's in Computer Science from San Francisco State University, 2016-2020. During my time in school,  I was a researcher and engineer who built and launched a pharmaceutical mobile app at Claryty which received an award from the school at the annual showcase. Moreover, I founded and led tutoring services at the computer science department for 3 years.
+
+I am interested in all things related to technology and designs, and my most recent career interests lie in Full Stack Development, Mobile Application Development, Human-Computer Interaction, Internet Application Design & Development, and Software Architecture.
 <br><br>
 
 ## 👨🏽‍💻 Industry Experience
@@ -86,13 +88,13 @@ Association of Computing Machinery - World's largest scientific and educational 
 ## 💻 Technologies I Work With
 
 - **Programming Languages**<br>
-  JavaScript, TypeScript, Java, Dart, Python, Ruby, C++, C, HTML/CSS
+  JavaScript, TypeScript, Java, Dart, Python, Ruby, C++, HTML/CSS
 
 - **Libraries and Frameworks**<br>
-  React, React Native, Flutter, Ionic, Redux, GraphQL, Node.js, Express.js, Java Swing
+  React, React Native, Flutter, Ionic, Redux, GraphQL, Node.js, Express.js
 
 - **Databases and Infrastructure**<br>
-  Amazon Web Services(AWS), Google Cloud Platform(GCP), Firebase, MySQL, PostgreSQL
+  Amazon Web Services(AWS), Google Cloud Platform(GCP), Firebase, MySQL
 
 - **Tools \& Miscellaneous**<br>
   Visual Studio Code, XCode, Android Studio, REST API, Docker, Postman, Git, bash, NPM, Yarn, Jira, Trello, Notion, Classical Algorithms \& Data Structures, AirBnB code standards
@@ -104,4 +106,4 @@ Association of Computing Machinery - World's largest scientific and educational 
   [San Francisco State University](https://www.sfsu.edu/) - San Francisco, California, USA _(2016 - May 2020)_
 
 > Thank you for reading <br>
-> Updated on 3nd Nov, 2021.
+> Updated on 8th Dec, 2021.
